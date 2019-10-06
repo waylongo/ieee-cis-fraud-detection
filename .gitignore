@@ -1,0 +1,6 @@
+*.csv
+*.pkl
+eda/
+docs/
+input/
+
